@@ -4,16 +4,16 @@
 ## 📊 Dashboard Preview
 
 ### 🔹 Overview
-![Overview](images/page1_overview.png)
+![Overview](Images/page1_overview.png)
 
 ### 🔹 Analysis
-![Analysis](images/page2_analysis.png)
+![Analysis](Images/page2_analysis.png)
 
 ### 🔹 Comparative Analysis
-![Comparison](images/page3_comparison.png)
+![Comparison](Images/page3_comparison.png)
 
 ### 🔹 Insights & Recommendations
-![Insights](images/page4_insights.png)
+![Insights](Images/page4_insights.png)
 
 ---
 
